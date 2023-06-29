@@ -2,8 +2,7 @@ import React from "react";
 import "./Header1.css";
 import { Navbar, Nav } from "react-bootstrap";
 import { Link } from "react-router-dom";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faShoppingCart } from "@fortawesome/free-solid-svg-icons";
+
 import imgaddress from './images/ttty.svg'
 import mobileflash from './images/t2.svg'
 import Constr1 from "../container/Container";
